@@ -1,1 +1,3 @@
-![tree](https://user-images.githubusercontent.com/83916285/161856593-c602031d-dce2-458b-8cb4-aba1d7b60bf3.JPG)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=irtazahasan-sm&layout=compact"/>
+</p>
