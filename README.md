@@ -1,6 +1,6 @@
 # Irtaza Hasan
 
-Product Designer & Systems Design Engineering student at the University of Waterloo.
+Product Designer who likes to code sometimes
 
 Currently seeking **Summer 2026 internships**
 
