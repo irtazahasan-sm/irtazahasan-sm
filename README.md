@@ -2,9 +2,7 @@
 
 # Irtaza Hasan
 
-Product Designer who likes to code sometimes
-
-Currently seeking **Summer 2026 internships**
+Product Designer who likes to code
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-irtazahasan.tech-blue?style=flat-square)](https://irtazahasan.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-irtaza--hasan-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/irtaza-hasan)
